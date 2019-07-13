@@ -1,0 +1,8 @@
+#OLD HIGHSCORES
+player: Kiran score: 14400 wave: 14
+player: Ibrahim score: 19700 wave: 17
+player: Agesh score: 11200 wave: 12
+#OLD HIGHSCORES END
+player: kiran score: 3500 wave: 5
+player: k score: 4200 wave: 6
+player: kiran s score: 5000 wave: 7
